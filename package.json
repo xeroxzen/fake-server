@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "Fake server to keep online",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeroxzen/fake-server.git"
+  },
+  "keywords": [
+    "fake-server"
+  ],
+  "author": "Google Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xeroxzen/fake-server/issues"
+  },
+  "homepage": "https://github.com/xeroxzen/fake-server#readme"
+}
