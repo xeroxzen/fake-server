@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xeroxzen/fake-server/issues"
   },
-  "homepage": "https://github.com/xeroxzen/fake-server#readme"
+  "homepage": "https://github.com/xeroxzen/fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
